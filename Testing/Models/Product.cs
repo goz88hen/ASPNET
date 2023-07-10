@@ -1,4 +1,6 @@
-﻿namespace Testing.Models
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Testing.Models
 {
     public class Product
     {
@@ -14,3 +16,4 @@
 
     }
 }
+
